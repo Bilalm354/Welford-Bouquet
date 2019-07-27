@@ -351,6 +351,8 @@ img:hover {
 }
 
 /* For mobile users - bertical nav bars*, two pics per row.*/
+/* i like the regular website on mobile so I'm commenting this out*/
+/*
 @media (max-width:600px){
     *{
         margin: 0;
@@ -407,3 +409,5 @@ img:hover {
         display: none;
     }
 }
+
+*/
